@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "TBD",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "TBD",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "Navbar item with label Tutorial"
+  }
+}
