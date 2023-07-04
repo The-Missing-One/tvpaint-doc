@@ -7,12 +7,12 @@ Après avoir acheté une licence TVPaint Animation, vous recevrez un e-mail vous
 
 ![Mon compte](/img/telecharger-installer/myaccount.png)  
 
-Dans votre Compte Utilisateur, en-dessous de <font color="#FE6700">[Téléchargements]</font>, cliquez sur <font color="#FE6700">[Mon Logiciel]</font>.
+Dans votre Compte Utilisateur, en-dessous de ((Téléchargements)), cliquez sur ((Mon Logiciel)).
 
 ![Mon compte](/img/telecharger-installer/select-configuration.png)
 
-Les licences Wibu sont des licences avec ou sans dongle USB. Dans <font color="#FE6700">[Configuration]</font> indiquez la configuration de votre système et cliquez sur l’icône de téléchargement. Cela vous enverra vers la page de téléchargement :
+Les licences Wibu sont des licences avec ou sans dongle USB. Dans ((Configuration)) indiquez la configuration de votre système et cliquez sur l’icône de téléchargement. Cela vous enverra vers la page de téléchargement :
 
 ![Mon compte](/img/telecharger-installer/download.png)
 
-Cliquez sur le bouton <font color="#FE6700">[Télécharger]</font> afin de lancer le processus de téléchargement.
+Cliquez sur le bouton ((Télécharger)) afin de lancer le processus de téléchargement.

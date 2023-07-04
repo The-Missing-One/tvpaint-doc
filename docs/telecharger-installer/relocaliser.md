@@ -6,7 +6,7 @@ title: 'Comment relocaliser votre licence sur un autre ordinateur'
 
 :::note
 
-La relocalisation de licence ne s’effectue qu’à partir du lien vers le <font color="#FE6700">[Dépôt de licences]</font> présent dans l’email que vous avez reçu avec votre facture. Veuillez noter que l’application CodeMeter ne vous permet pas de réaliser cette procédure.
+La relocalisation de licence ne s’effectue qu’à partir du lien vers le ((Dépôt de licences)) présent dans l’email que vous avez reçu avec votre facture. Veuillez noter que l’application CodeMeter ne vous permet pas de réaliser cette procédure.
 
 :::
 
@@ -30,11 +30,11 @@ Gardez à l'esprit que CodeMeter doit être installé et démarré sur l'ordinat
 
 La première étape est évidemment de désactiver la licence de votre ordinateur actuel.
 
-La capture d'écran ci-dessous montre un exemple de Dépôt de licences avec une licence toujours active. Vous pouvez voir que la colonne <font color="#FE6700">[Statut]</font> affiche 0 licence disponible sur 1 :
+La capture d'écran ci-dessous montre un exemple de Dépôt de licences avec une licence toujours active. Vous pouvez voir que la colonne ((Statut)) affiche 0 licence disponible sur 1 :
 
 ![Mon compte](/img/telecharger-installer/rehost-step-1.png)
 
-Cliquez sur <font color="#FE6700">[Déménager les licences]</font> pour ouvrir la page de relocalisation.
+Cliquez sur ((Déménager les licences)) pour ouvrir la page de relocalisation.
 
 ![Mon compte](/img/telecharger-installer/rehost-step-2.png)
 
@@ -49,7 +49,7 @@ L'étape suivante se fait sur le nouvel ordinateur sur lequel vous souhaitez uti
 
 Après avoir installé TVPaint Animation et CodeMeter, et vous être assuré que CodeMeter est démarré, ouvrez votre lien personnel vers le Dépôt de licence.
 
-La page sur laquelle vous arriverez devrait avoir un bouton <font color="#FE6700">[Activer les licences]</font>:
+La page sur laquelle vous arriverez devrait avoir un bouton ((Activer les licences)):
 
 ![Mon compte](/img/telecharger-installer/rehost-step-4.png)
 

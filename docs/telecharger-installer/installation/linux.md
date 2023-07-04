@@ -13,7 +13,7 @@ Une fois le fichier .tar téléchargé, double-cliquez dessus afin d'en extraire
 
 ![Mon compte](/img/telecharger-installer/installation/linux/linux-rpm/extract.png)
 
-Double-cliquez ensuite sur le dossier extrait <font color="#FE6700">[TVPaint Animation […]]</font> afin d'accéder aux fichiers d'installation.
+Double-cliquez ensuite sur le dossier extrait ((TVPaint Animation (...) )) afin d'accéder aux fichiers d'installation.
 
 :::tip
 
@@ -25,17 +25,17 @@ Veuillez garder le dossier d’installation avec tous ses fichiers. Il contient 
 
 ![Mon compte](/img/telecharger-installer/installation/linux/linux-rpm/install-files.png)
 
-Double-cliquez sur le fichier <font color="#FE6700">[TVPaint Animation […].rpm]</font> afin de démarrer le processus d'installation du logiciel.
+Double-cliquez sur le fichier ((TVPaint Animation (...).rpm)) afin de démarrer le processus d'installation du logiciel.
 
 ![Mon compte](/img/telecharger-installer/installation/linux/linux-rpm/tvp-install.png)
 
-Une fois l'installation du logiciel terminée, double-cliquez sur le fichier <font color="#FE6700">[CodeMeter Runtime64.rpm]</font> afin de démarrer le processus d'installation de CodeMeter.
+Une fois l'installation du logiciel terminée, double-cliquez sur le fichier ((CodeMeter Runtime64.rpm)) afin de démarrer le processus d'installation de CodeMeter.
 
 ![Mon compte](/img/telecharger-installer/installation/linux/linux-rpm/driver-install.png)
 
 :::note
 
-L’installation de l'application <font color="#FE6700">[CodeMeter]</font> est essentielle pour l’activation de votre licence. Elle tournera en tâche de fond, en utilisant très peu de ressources.Veuillez ne pas télécharger et installer <font color="#FE6700">[CodeMeter]</font> depuis une autre source. Vous pourriez en effet vous retrouver avec une version de l’application empêchant TVPaint Animation de fonctionner correctement.
+L’installation de l'application ((CodeMeter)) est essentielle pour l’activation de votre licence. Elle tournera en tâche de fond, en utilisant très peu de ressources.Veuillez ne pas télécharger et installer ((CodeMeter)) depuis une autre source. Vous pourriez en effet vous retrouver avec une version de l’application empêchant TVPaint Animation de fonctionner correctement.
 
 :::
 
@@ -51,7 +51,7 @@ Une fois le fichier .tar téléchargé, double-cliquez dessus afin d'en extraire
 
 ![Mon compte](/img/telecharger-installer/installation/linux/linux-debian/extract.png)
 
-Double-cliquez ensuite sur le dossier extrait <font color="#FE6700">[TVPaint Animation […]]</font> afin d'accéder aux fichiers d'installation.
+Double-cliquez ensuite sur le dossier extrait ((TVPaint Animation (...) )) afin d'accéder aux fichiers d'installation.
 
 :::tip
 
@@ -63,17 +63,17 @@ Veuillez garder le dossier d’installation avec tous ses fichiers. Il contient 
 
 ![Mon compte](/img/telecharger-installer/installation/linux/linux-debian/install-files.png)
 
-Double-cliquez sur le fichier <font color="#FE6700">[TVPaint Animation […].deb]</font> afin de démarrer le processus d'installation du logiciel.
+Double-cliquez sur le fichier ((TVPaint Animation (...).deb)) afin de démarrer le processus d'installation du logiciel.
 
 ![Mon compte](/img/telecharger-installer/installation/linux/linux-debian/tvp-install.png)
 
-Une fois l'installation du logiciel terminée, double-cliquez sur le fichier <font color="#FE6700">[CodeMeter Runtime64.deb]</font> afin de démarrer le processus d'installation de CodeMeter.
+Une fois l'installation du logiciel terminée, double-cliquez sur le fichier ((CodeMeter Runtime64.deb)) afin de démarrer le processus d'installation de CodeMeter.
 
 ![Mon compte](/img/telecharger-installer/installation/linux/linux-debian/driver-install.png)
 
 :::note
 
-L’installation de l'application <font color="#FE6700">[CodeMeter]</font> est essentielle pour l’activation de votre licence. Elle tournera en tâche de fond, en utilisant très peu de ressources.Veuillez ne pas télécharger et installer <font color="#FE6700">[CodeMeter]</font> depuis une autre source. Vous pourriez en effet vous retrouver avec une version de l’application empêchant TVPaint Animation de fonctionner correctement.
+L’installation de l'application ((CodeMeter)) est essentielle pour l’activation de votre licence. Elle tournera en tâche de fond, en utilisant très peu de ressources.Veuillez ne pas télécharger et installer ((CodeMeter)) depuis une autre source. Vous pourriez en effet vous retrouver avec une version de l’application empêchant TVPaint Animation de fonctionner correctement.
 
 :::
 

@@ -7,7 +7,7 @@ title: 'macOS'
 
 Il est recommandé de désinstaller toute version antérieure de TVPaint Animation qui pourrait se trouver sur votre ordinateur avant de poursuivre.
 
-Une fois le fichier ZIP téléchargé, double-cliquez dessus afin d’en extraire le dossier <font color="#FE6700">[TVPaint Animation]</font> s’il n’est pas déjà extrait.
+Une fois le fichier ZIP téléchargé, double-cliquez dessus afin d’en extraire le dossier ((TVPaint Animation)) s’il n’est pas déjà extrait.
 Double-cliquez sur le fichier DMG pour obtenir la fenêtre d’installation de TVPaint Animation.
 
 :::tip
@@ -18,11 +18,11 @@ Veuillez garder le dossier d’installation avec tous ses fichiers. Il contient 
 
 ![Mon compte](/img/telecharger-installer/installation/macos/install-window-driver.png)
 
-En fonction de votre version de macOS, double-cliquez sur le paquet d’installation <font color="#FE6700">[CodeMeterRuntime.dmg]</font> correspondant afin de lancer son installation. Si vous êtes sur macOS High Sierra (10.13) ou plus récent, double-cliquez sur le paquet <font color="#FE6700">[CodeMeterRuntime-postHighSierra.dmg]</font>. Si vous utilisez une version plus ancienne de macOS High Sierra, double-cliquez sur le paquet <font color="#FE6700">[CodeMeterRuntime-preHighSierra.dmg]</font> à la place.
+En fonction de votre version de macOS, double-cliquez sur le paquet d’installation ((CodeMeterRuntime.dmg)) correspondant afin de lancer son installation. Si vous êtes sur macOS High Sierra (10.13) ou plus récent, double-cliquez sur le paquet ((CodeMeterRuntime-postHighSierra.dmg)). Si vous utilisez une version plus ancienne de macOS High Sierra, double-cliquez sur le paquet ((CodeMeterRuntime-preHighSierra.dmg)) à la place.
 
 :::note
 
-Veuillez ne pas télécharger et installer <font color="#FE6700">[CodeMeter]</font> depuis une autre source. Vous pourriez en effet vous retrouver avec une version de l’application empêchant TVPaint Animation de fonctionner correctement.
+Veuillez ne pas télécharger et installer ((CodeMeter)) depuis une autre source. Vous pourriez en effet vous retrouver avec une version de l’application empêchant TVPaint Animation de fonctionner correctement.
 
 :::
 
@@ -30,7 +30,7 @@ Veuillez ne pas télécharger et installer <font color="#FE6700">[CodeMeter]</fo
 
 :::tip
 
-Si l'installation ne démarre pas, vous devrez vous rendre dans <font color="#FE6700">[Préférences Système]</font> > <font color="#FE6700">[Sécurité et confidentialité]</font>, <font color="#FE6700">[Autoriser les applications téléchargées de:]</font> et cliquer sur <font color="#FE6700">[Ouvrir quand même]</font>.
+Si l'installation ne démarre pas, vous devrez vous rendre dans ((Préférences Système)) > ((Sécurité et confidentialité)), ((Autoriser les applications téléchargées de:)) et cliquer sur ((Ouvrir quand même)).
 
 :::
 

@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const colorRef = require('./src/plugins/colorRef');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -54,6 +55,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          remarkPlugins: [colorRef],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

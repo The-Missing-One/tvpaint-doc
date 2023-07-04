@@ -17,7 +17,7 @@ Prévu pour travailler dans toutes les résolutions, il fera le bonheur des amou
 
 Afin de simplifier la compréhension des techniques décrites, ce manuel utilise les conventions typographiques suivantes :
 
-- <font color="#FE6700">[Référence]</font> = les noms de bouton, onglet, fenêtres, outils, options,... sont écrits en orange, entre crochets.
+- ((Référence)) = les noms de bouton, onglet, fenêtres, outils, options,... sont écrits en orange, entre crochets.
 - *Italique* : les noms de menu, commande (tout élément faisant référence à l'un de ces objets issus du logiciel) seront écrits en italique.
 - [touche] : désigne les raccourcis clavier
 - [touche1+touche2] : désigne les combinaisons de touches. Maintenez la première touche enfoncée puis pressez la seconde.

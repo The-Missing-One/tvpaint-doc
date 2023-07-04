@@ -17,7 +17,7 @@ Designed to work in all resolutions, it will delight all drawing enthusiasts tha
 
 In order to simplify understanding of the techniques described, this user guide uses the following typographic conventions :
 
-- <font color="#FE6700">[Reference]</font> =  the names of buttons, tabs, windows, tools, options,... are written in orange, between brackets.
+- ((Reference)) =  the names of buttons, tabs, windows, tools, options,... are written in orange, between brackets.
 - *Italics* : the names of menus, commands (all elements referring to one of the objects present in the program) are written in italics.
 - [key] : designates a keyboard shortcuts.
 - [key1+key2] : désigne les combinaisons de touches. Maintenez la première touche enfoncée puis pressez la seconde.
