@@ -7,20 +7,20 @@ const colorRef = require('./src/plugins/colorRef');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'TVPaint',
-  tagline: 'Dinosaurs are cool',
+  title: 'TVPAINT ANIMATION',
+  tagline: "Le logiciel d'animation 2D incontournable !",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://TBD.com',
+  url: 'https://doc.tvpaint.themissingadmin.fr/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'TBD', // Usually your GitHub org/user name.
-  projectName: 'TBD', // Usually your repo name.
+  organizationName: 'TVPAINT ANIMATION', // Usually your GitHub org/user name.
+  projectName: 'TVPAINT ANIMATION', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -51,10 +51,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           remarkPlugins: [colorRef],
         },
         theme: {
@@ -70,10 +66,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'TBD',
         logo: {
-          alt: 'TBD',
-          src: 'img/logo.svg',
+          alt: 'TVPAINT ANIMATION',
+          src: 'img/TVPAINT-logo.svg',
+          width: 200,
         },
         items: [
           {
@@ -108,6 +104,19 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+    plugins: [
+      async function myPlugin(context, options) {
+        return {
+          name: "docusaurus-tailwindcss",
+          configurePostCss(postcssOptions) {
+            // Appends TailwindCSS and AutoPrefixer.
+            postcssOptions.plugins.push(require("tailwindcss"));
+            postcssOptions.plugins.push(require("autoprefixer"));
+            return postcssOptions;
+          },
+        };
+      },
+    ],
 };
 
 module.exports = config;
