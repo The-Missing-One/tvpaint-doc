@@ -1,8 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 title: 'Windows'
 ---
-import CommentSection from '@site/src/components/CommentSection';
 
 Il est recommandé de désinstaller toute version antérieure de TVPaint Animation qui pourrait se trouver sur votre ordinateur avant de poursuivre.
 
@@ -16,8 +15,8 @@ Veuillez garder le dossier d’installation avec tous ses fichiers. Il contient 
 
 Double-cliquez sur le fichier exécutable <font color="#FE6700">[TVPaint Animation[...].exe]</font>, puis suivez les instructions du programme d’installation.
 
-![Mon compte](/img/eula.png)
-![Mon compte](/img/components.png)
+![Mon compte](/img/telecharger-installer/installation/windows/eula.png)
+![Mon compte](/img/telecharger-installer/installation/windows/components.png)
 
 :::tip
 
@@ -27,9 +26,9 @@ Veillez à ce que tous les composants d’installation soient cochés. Puis pour
 
 Une application nommée <font color="#FE6700">[CodeMeter]</font> sera également installée avec TVPaint Animation. <font color="#FE6700">[CodeMeter]</font> gère votre license et permet au logiciel de se lancer.
 
-:::caution
+:::note
 
-Veuillez ne pas télécharger et installer CodeMeter depuis une autre source. Vous pourriez en effet vous retrouver avec une version de l’application empêchant TVPaint Animation de fonctionner correctement.
+Veuillez ne pas télécharger et installer <font color="#FE6700">[CodeMeter]</font> depuis une autre source. Vous pourriez en effet vous retrouver avec une version de l’application empêchant TVPaint Animation de fonctionner correctement.
 
 :::
 

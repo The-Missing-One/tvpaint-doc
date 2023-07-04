@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.documentationSidebar.category.Télécharger et installer": {
+    "message": "Télécharger et installer",
+    "description": "The label for category Télécharger et installer in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Installer le logiciel": {
+    "message": "Installer le logiciel",
+    "description": "The label for category Installer le logiciel in sidebar documentationSidebar"
+  },
+  "sidebar.documentationSidebar.category.Licences : problèmes courants": {
+    "message": "Licences : problèmes courants",
+    "description": "The label for category Licences : problèmes courants in sidebar documentationSidebar"
+  }
+}

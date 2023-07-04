@@ -29,13 +29,16 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'fr',
-    locales: ['fr','en'],
+    locales: ['fr','en', 'ja'],
     localeConfigs: {
       fr: {
         htmlLang: 'fr-FR',
       },
       en: {
         htmlLang: 'en-GB',
+      },
+      ja: {
+        htmlLang: 'ja',
       },
     }
   },
@@ -73,9 +76,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'documentationSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {
             type: 'localeDropdown',
@@ -90,7 +93,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/intro',
               },
             ],
