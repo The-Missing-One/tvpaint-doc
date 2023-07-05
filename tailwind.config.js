@@ -41,7 +41,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ['Lato', ...defaultTheme.fontFamily.sans],
-        title: ['Lobster', ...defaultTheme.fontFamily.sans],
+        title: ['PPAgrandir', ...defaultTheme.fontFamily.sans],
       },
       height: {
         header: '6rem',

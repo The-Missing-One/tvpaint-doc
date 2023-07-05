@@ -8,6 +8,104 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-Black.woff2");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-BlackItalic.woff2");
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-Heavy.woff2");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-HeavyItalic.woff2");
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-Bold.woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-BoldItalic.woff2");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-Medium.woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-MediumItalic.woff2");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-Regular.woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-Italic.woff2");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-Light.woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-LightItalic.woff2");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-Thin.woff2");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PPAgrandir";
+  src: url("../../static/font/PPAgrandir/PPAgrandir-ThinItalic.woff2");
+  font-weight: 100;
+  font-style: italic;
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;
