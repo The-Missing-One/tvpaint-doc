@@ -130,3 +130,123 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.footer {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.footer__title {
+  margin-bottom: inherit;
+}
+
+.footer__links {
+  --tw-space-y-reverse: 0;
+  margin-top: calc(3rem * calc(1 - var(--tw-space-y-reverse)))!important;
+  margin-bottom: calc(3rem * var(--tw-space-y-reverse))!important;
+  column-gap: 1.5rem;
+  row-gap: 1rem;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(1,minmax(0,1fr));
+}
+
+@media (min-width: 1280px){
+  .footer__links {
+    -moz-column-gap: 2.5rem;
+    column-gap: 2.5rem;
+  }
+}
+
+@media (min-width: 1024px){
+  .footer__links {
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+@media (min-width: 640px){
+  .footer__links {
+    row-gap: 2rem;
+    grid-template-columns: repeat(2,minmax(0,1fr));
+  }
+}
+
+.footer__links, .row {
+  margin: auto;
+  flex-wrap: inherit;
+}
+
+.footer__col{
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  --tw-border-opacity: 1;
+  border-color: rgb(255 255 255/var(--tw-border-opacity));
+  border-width: 2px;
+  border-radius: 20px;
+  flex-direction: column;
+  flex: 1 1 auto;
+  display: flex;
+  margin-bottom: unset;
+}
+
+@media (min-width: 1280px){
+  .footer__col {
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+      padding-left: 2.5rem;
+      padding-right: 2.5rem;
+  }
+}
+
+.clean-list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+}
+
+.footer__link-item {
+  align-self: flex-start;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 0;
+}
+
+.container-fluid {
+  display: flex;
+  flex-direction: column-reverse;
+  max-width: 1560px;
+  padding: 0;
+}
+
+.footer__logo {
+  width: 300px;
+}
+
+.social-container {
+  height: 100%;
+  place-content: center;
+  display: flex;
+  column-gap: 2rem;
+  --tw-space-y-reverse: 0;
+  margin-top: calc(3rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(3rem * var(--tw-space-y-reverse));
+  align-items: center;
+}
+
+.social-item {
+  width: 42px;
+}
+
+.social-item-wrap {
+  display: flex;
+}
+
+.footer__copyright {
+  height: 42px;
+}
