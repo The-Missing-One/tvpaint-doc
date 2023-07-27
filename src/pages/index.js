@@ -35,7 +35,7 @@ function HomepageHero() {
               </div>
               <div class="flex justify-center max-w-lg flex-col mx-auto gap-y-4 gap-x-6 md:gap-x-16">
                 <Link
-                  className="hover:scale-[1.04] disabled:opacity-50 disabled:cursor-not-allowed z-10 w-full px-8 py-2 bg-white rounded-lg transition-all duration-300 ease-in-out border-[2px] border-white hover:bg-black hover:text-white hover:no-underline"
+                  className="hover:scale-[1.04] text-black disabled:opacity-50 disabled:cursor-not-allowed z-10 w-full px-8 py-2 bg-white rounded-lg transition-all duration-300 ease-in-out border-[2px] border-white hover:bg-black hover:text-white hover:no-underline"
                   to="/docs/intro"
                 >
                   <Translate>Introduction</Translate>

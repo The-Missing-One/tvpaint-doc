@@ -108,28 +108,92 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
+  --ifm-color-primary: #000000;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
   --ifm-color-primary-light: #33925d;
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
+  --ifm-link-color: #000000;
+  --ifm-footer-link-color: #000000;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-navbar-background-color: transparent;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary: #ffffff;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
+  --ifm-link-color: #ffffff;
+  --ifm-footer-link-color: #ffffff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-navbar-background-color: transparent;
 }
+
+a {
+  color: var(--ifm-color-primary);
+}
+
+/* NavBar */
+
+.navbar{
+  position: absolute;
+  padding: 0;
+  top: 0;
+  --tw-gradient-from: #000 var(--tw-gradient-from-position);
+  --tw-gradient-to: transparent var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from),var(--tw-gradient-to);
+  background-image: linear-gradient(to bottom,var(--tw-gradient-stops));
+  height: 8rem;
+  z-index: 100;
+  inset: 0;
+  box-shadow: none;
+}
+
+@media (min-width: 640px){
+  .navbar {
+      --tw-gradient-from-position: 2%;
+      height: 10rem;
+  }
+}
+
+.navbar__inner{
+  height: 6rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  align-items: center;
+  flex-direction: row;
+  max-width: 1280px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar__logo img{
+  max-width: 190px;
+  object-fit: contain;
+}
+
+@media (min-width: 1280px){
+  .navbar__logo img{
+    max-width: 230px;
+  }
+}
+
+.navbar__items{
+  height: 100%;
+}
+
+/* End NavBar */
+
+/* Footer */
 
 .footer {
   padding-top: 4rem;
@@ -184,8 +248,7 @@
   padding-bottom: 1.5rem;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
-  --tw-border-opacity: 1;
-  border-color: rgb(255 255 255/var(--tw-border-opacity));
+  border-color: var(--ifm-color-primary);
   border-width: 2px;
   border-radius: 20px;
   flex-direction: column;
@@ -250,3 +313,5 @@
 .footer__copyright {
   height: 42px;
 }
+
+/* End Footer */
