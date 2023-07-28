@@ -13,7 +13,7 @@ function HomepageHero() {
       <div className="relative h-[81vh]">
         <img
           className="object-cover object-center w-full h-full -z-10"
-          src="/img/tvpaint_hero.png"
+          src="img/tvpaint_hero.png"
           alt=""
           priority
           fill

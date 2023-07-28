@@ -272,5 +272,14 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "Documentation": {
+    "message": "Documentation"
+  },
+  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris finibus augue sit amet.": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris finibus augue sit amet."
+  },
+  "Introduction": {
+    "message": "Introduction"
   }
 }

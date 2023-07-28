@@ -6,5 +6,9 @@
   "copyright": {
     "message": "Copyright © 2023 My Project, Inc. Built with Docusaurus.",
     "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "TVPaint logo",
+    "description": "The alt text of footer logo"
   }
 }
