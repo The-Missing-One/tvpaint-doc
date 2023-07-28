@@ -1,5 +1,5 @@
 {
-  "name": "tv-paint",
+  "name": "tvpaint-docs",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -13,7 +13,7 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "dev": "docusaurus start -p 3000",
-    "prod": "pm2 start npm --name 'TV-PAINT-DOCS' -- run serve"
+    "prod": "pm2 start npm --name 'TVPAINT-DOCS' -- run serve"
   },
   "dependencies": {
     "@docusaurus/core": "2.4.1",
