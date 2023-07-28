@@ -10,7 +10,7 @@ import Translate from "@docusaurus/Translate";
 function HomepageHero() {
   return (
     <div className="relative flex flex-col flex-1 overflow-hidden">
-      <div className="relative h-[40vh] sm:h-[70vh]">
+      <div className="relative h-[81vh]">
         <img
           className="object-cover object-center w-full h-full -z-10"
           src="/img/tvpaint_hero.png"
@@ -19,14 +19,14 @@ function HomepageHero() {
           fill
         />
         <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black h-3/4" />
-        <div class="absolute bottom-0 left-0 right-0 z-10 px-4 py-16 mx-auto sm:py-20">
-          <div class="max-w-3xl mx-auto space-y-8 text-center sm:space-y-16">
+        <div class="absolute flex items-center justify-center bottom-0 left-0 top-0 right-0 z-10 px-4 py-16 sm:py-20">
+          <div class="max-w-3xl mx-auto space-y-8 text-center">
             <div class="flex flex-col space-y-6 md:space-y-10">
               <div class="flex flex-col space-y-4">
-                <h1 className="z-20 font-sans text-2xl font-black text-white">
+                <h1 className="z-20 font-sans font-black text-white text-2lg sm:text-2xl">
                   <Translate>Documentation</Translate>
                 </h1>
-                <p className="z-20 max-w-lg mx-auto text-lg text-center text-white">
+                <p className="z-20 max-w-lg mx-auto text-base text-center text-white sm:text-lg">
                   <Translate>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Mauris finibus augue sit amet.
