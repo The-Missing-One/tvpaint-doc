@@ -105,6 +105,21 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'SG43TANS9M',
+  
+        // Public API key: it is safe to commit it
+        apiKey: 'af525007bf8970666ca3f8c3bd2e6c1c',
+  
+        indexName: 'tvpaint-themissingadmin',
+  
+        // Optional: see doc section below
+        contextualSearch: true,
+  
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'false',
+      },
     }),
   plugins: [
     async function myPlugin(context, options) {
