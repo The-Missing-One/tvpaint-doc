@@ -12,7 +12,7 @@
     "description": "The label for category Installer le logiciel in sidebar documentationSidebar"
   },
   "sidebar.documentationSidebar.category.Licences : problèmes courants": {
-    "message": "Licences : problèmes courants",
+    "message": "Common license problems",
     "description": "The label for category Licences : problèmes courants in sidebar documentationSidebar"
   }
 }

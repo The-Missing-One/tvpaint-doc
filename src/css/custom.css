@@ -119,6 +119,7 @@
   --ifm-footer-link-color: #000000;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-table-stripe-background: transparent!important;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -136,7 +137,7 @@
 }
 
 a {
-  color: var(--ifm-color-primary);
+  color: rgb(128, 159, 171);;
 }
 
 .markdown h1:first-child{
@@ -158,7 +159,25 @@ a {
   vertical-align: middle;
 }
 
-.breadcrumbs__item:not(:last-child):after{
-  height: 1.5rem;
-  background-repeat: no-repeat;
+.breadcrumbs__item svg {
+  display: inline-block;
+}
+
+.img_node_modules-\@docusaurus-theme-classic-lib-theme-MDXComponents-Img-styles-module{
+  margin: auto;
+}
+
+.theme-admonition{
+  margin: auto;
+  max-width: 777px;
+  width: fit-content;
+}
+
+.admonitionContent_node_modules-\@docusaurus-theme-classic-lib-theme-Admonition-styles-module p{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+table tr, table th, table td {
+  border: none!important;
 }

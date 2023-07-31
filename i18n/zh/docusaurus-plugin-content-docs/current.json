@@ -4,15 +4,15 @@
     "description": "The label for version current"
   },
   "sidebar.documentationSidebar.category.Télécharger et installer": {
-    "message": "ダウンロードとインストール",
+    "message": "Download and Install",
     "description": "The label for category Télécharger et installer in sidebar documentationSidebar"
   },
   "sidebar.documentationSidebar.category.Installer le logiciel": {
-    "message": "ソフトをインストールする",
+    "message": "安装软件",
     "description": "The label for category Installer le logiciel in sidebar documentationSidebar"
   },
   "sidebar.documentationSidebar.category.Licences : problèmes courants": {
-    "message": "一般的なライセンスの問題",
+    "message": "一般许可问题",
     "description": "The label for category Licences : problèmes courants in sidebar documentationSidebar"
   }
 }

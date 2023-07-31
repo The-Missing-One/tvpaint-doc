@@ -1,0 +1,10 @@
+{
+  "logo.alt": {
+    "message": "TVPAINT ANIMATION",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentation": {
+    "message": "Documentation",
+    "description": "Navbar item with label Documentation"
+  }
+}

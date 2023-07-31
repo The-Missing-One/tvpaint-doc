@@ -30,7 +30,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "fr",
-    locales: ["fr", "en", "ja"],
+    locales: ["fr", "en", "ja", "zh"],
     localeConfigs: {
       fr: {
         htmlLang: "fr-FR",
@@ -40,6 +40,9 @@ const config = {
       },
       ja: {
         htmlLang: "ja",
+      },
+      zh: {
+        htmlLang: "zh",
       },
     },
   },
